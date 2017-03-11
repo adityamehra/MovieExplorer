@@ -3,5 +3,6 @@
     <string name="action_settings">Settings</string>
     <string name="title">Title</string>
     <string name="year">Year</string>
-    <string name="title_activity_movie">MovieActivity</string>
+    <string name="button">Get movie!</string>
+    <string name="title_activity_movie">Movie</string>
 </resources>
